@@ -15,6 +15,7 @@ This project aims to create an automated soil moisture monitoring system using t
 ## Components Required
 
 - **AT89C51 Microcontroller**
+  ![Miceocontroller](at89c51-microcontroller.png)
 - **Soil Moisture Sensor**
   ![Soil Moisture Sensor](soil-moisture-sensor.jpg)
 - **ADC (Analog-to-Digital Converter)** or an external ADC module
