@@ -84,7 +84,7 @@ The assembly code for the **AT89C51 microcontroller** performs the following:
   ![Project Image 1](project-image-1.jpg)
 
 - **Project Overview Image 2**  
-  ![Project Image 3](project-image-3.jpg)
+  ![Project Image 3](project-image-2.jpg)
 
 ## Future Improvements
 
