@@ -23,7 +23,6 @@ This project aims to create an automated soil moisture monitoring system using t
   ![Motor Driver](soil-moisture-sensor.jpg)
 - **DC Motor (for watering)**
   ![Water Motor](5v-water-pump.jpg)
-- **Power Supply (5V for AT89C51, 12V for motor)**
 - **Breadboard for prototyping**
   ![Breadboard](breadBoard.jpg)
 - **Jumper Wires**
@@ -32,10 +31,12 @@ This project aims to create an automated soil moisture monitoring system using t
   ![Relay](ad317_Single-Relay-Module.jpg)
 - **LED Display (optional for moisture level display)**
   ![LED Display](16pin-led-display.jpg)
+  - **Power Supply (5V for AT89C51, 12V for motor)**
 
 ## Circuit Diagram
 
-(Include a link to your circuit diagram here or an image if you have one.)
+  ![Diagram](diagram.png)
+
 
 ### Connections
 
