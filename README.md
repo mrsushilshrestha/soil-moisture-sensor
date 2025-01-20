@@ -23,6 +23,8 @@ This project aims to create an automated soil moisture monitoring system using t
   ![Motor Driver](soil-moisture-sensor.jpg)
 - **DC Motor (for watering)**
   ![Water Motor](5v-water-pump.jpg)
+
+  
 - **Breadboard for prototyping**
   ![Breadboard](breadBoard.jpg)
 - **Jumper Wires**
