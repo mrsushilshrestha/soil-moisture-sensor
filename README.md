@@ -93,7 +93,6 @@ The assembly code for the **AT89C51 microcontroller** performs the following:
 - **Automated Notifications**: Implement notifications when moisture levels fall below a certain threshold.
 - **Sensor Calibration**: Implement automatic calibration for varying soil types.
 
-## License
+## Copyright
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+Copyright © Sushil Shrestha. All rights reserved.
